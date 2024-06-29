@@ -1,0 +1,9 @@
+.paragraph {
+  color: black;
+}
+.card {
+  display: flex;
+}
+.star-image {
+  background-color: #3b82f6;
+}
